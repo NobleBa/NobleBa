@@ -95,10 +95,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=NobleBa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages of NobleBa" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NobleBa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 🚀 What I like building
