@@ -96,7 +96,7 @@
 </p>
 
 <p align="center">
-  <img height="165" src="[https://github-readme-streak-stats.herokuapp.com/?user=NobleBa&theme=dark](https://github-readme-streak-stats.herokuapp.com/?user=NobleBa&theme=dark)" alt="GitHub streak for NobleBa" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=NobleBa&theme=tokyonight&hide_border=true" alt="GitHub streak for NobleBa" />
 </p>
 
 ---
